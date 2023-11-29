@@ -1,0 +1,57 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  list-style-type: none;
+  width: 40%;
+  height: 10vh;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  list-style-type: none;
+  width: 40%;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  list-style-type: none;
+  width: 40%;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  list-style-type: none;
+  width: 40%;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+.heading {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+.desc {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.image {
+  height: 12vh;
+  width: 8vw;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+/* Write CSS code here. */
